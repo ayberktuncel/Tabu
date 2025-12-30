@@ -2,9 +2,6 @@
 
 Bu proje, yılbaşı gecelerinde arkadaşlarınız ve ailenizle keyifli vakit geçirmeniz için **Python** ve **Streamlit** kullanılarak geliştirilmiş modern bir Tabu oyunudur.
 
-## 📸 Oyun Arayüzü
-*(Buraya oyunun çalışır haldeki ekran görüntüsünü ekleyin. Örneğin: ![Oyun Ekranı](tabu_arayüz.png))*
-
 ## ✨ Özellikler
 
 * **⚡ İnteraktif Web Arayüzü:** Streamlit sayesinde kullanıcı dostu, renkli ve hızlı bir deneyim.
