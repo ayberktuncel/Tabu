@@ -1,4 +1,6 @@
 # 🎄 Yılbaşı Temalı Dijital Tabu Oyunu
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ayberk-yilbasi-tabu.streamlit.app)
+👉 **[CANLI OYNA: Oyunu denemek için buraya tıkla!](https://ayberk-yilbasi-tabu.streamlit.app)**
 
 Bu proje, yılbaşı gecelerinde arkadaşlarınız ve ailenizle keyifli vakit geçirmeniz için **Python** ve **Streamlit** kullanılarak geliştirilmiş modern bir Tabu oyunudur.
 
